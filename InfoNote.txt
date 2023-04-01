@@ -1,0 +1,19 @@
+Prossessador: 
+AMD Ryzen 7 4800H
+8 Núcleos de CPU
+16 Threads
+Clock Básico(usado nos testes): 2.9GHz
+Cachê L2: 4MB
+Cachê L3: 8MB
+
+RAM:
+16GB DDR4 3200MHz
+Dual Channel(8 + 8) 
+Single Rank
+
+Sistema Operacional:
+Ubuntu 22.04.2 LTS 
+6 bits
+GNOME 42.5
+
+Observações: Como o dispositivo é um notebook, os testes foram feitos com o dispositivo na tomada para obter maior desempenho.
